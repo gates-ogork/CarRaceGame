@@ -1,0 +1,15 @@
+1. What was the idea? simple car pygame, was orignially a snake game
+2. What source code/tutorials did you find? paste code link (https://github.com/MariyaSha/SimpleCarGame/blob/main/cargame.py)
+3. How did your project develop from your initial idea(s) to the end result? completely changed when i found a better source code. it was initially a snake game project but i discorvered i could do much more with python so I switched to a car game.
+4. What surprised you? How did the scope change? Why? Just how much i could do with python, from animating the roads to the water on the side, and even laoding images and making them able to work as a real game
+5. What roadblocks did you face? How did you overcome them? (show the code and changes you made to fix it)
+- could not run pygame on my computer so I had to code from school
+- could not figure out how to properly load images
+- end function was not working, the enemy car would just go over user's car
+- could not figure out how to resize cars
+- could not figure out how to rotate cars
+- finding good color to represent the water
+- tried to make the window bigger but could not figure that out
+6. Run it/Show the code.
+7. Does it run? Show what it can do even if it cannot run. yes it runs
+8. What would you do next? I would develop a better car game since i found some better ones while doing research to complete this one
